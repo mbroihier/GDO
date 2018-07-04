@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GDO</string>
+    <string name="status">Ready</string>
+    <string name="buttonLabel">Open/Close</string>
+</resources>
